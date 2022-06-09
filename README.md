@@ -1,6 +1,10 @@
-# TIR-Learner-Rice
+# TIR-Learner-Arthropoda
 
 v1.11
+
+-Modified version of TIR-Learner-Arthropoda
+
+-Added PiggyBacs into structural based de novo process
 
 # ** ** TIR-Learner: a new ensemble method for TIR Transposable Element annotation
 ## Introduction
